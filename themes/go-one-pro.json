@@ -174,6 +174,21 @@
             "color": "#5c6370ff",
             "font_style": "italic"
           },
+          "comment.todo": {
+            "color": "#61afefff"
+          },
+          "comment.info": {
+            "color": "#98c379ff"
+          },
+          "comment.warn": {
+            "color": "#e5c07bff"
+          },
+          "comment.error": {
+            "color": "#e06c75ff"
+          },
+          "comment.user": {
+            "color": "#ffffffff"
+          },
           "constant": {
             "color": "#d19a66ff"
           },
@@ -461,6 +476,21 @@
           "comment.doc": {
             "color": "#8792a2ff",
             "font_style": "italic"
+          },
+          "comment.todo": {
+            "color": "#4078f2ff"
+          },
+          "comment.info": {
+            "color": "#50a14fff"
+          },
+          "comment.warn": {
+            "color": "#c18401ff"
+          },
+          "comment.error": {
+            "color": "#ca1243ff"
+          },
+          "comment.user": {
+            "color": "#000000dd"
           },
           "constant": {
             "color": "#d75f00ff"
