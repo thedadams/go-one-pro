@@ -174,19 +174,19 @@
             "color": "#5c6370ff",
             "font_style": "italic"
           },
-          "comment.todo": {
-            "color": "#61afefff"
+          "constant.comment.todo": {
+            "color": "#7dc4ffff"
           },
-          "comment.info": {
-            "color": "#98c379ff"
+          "string.comment.info": {
+            "color": "#b0d98cff"
           },
-          "comment.warn": {
-            "color": "#e5c07bff"
+          "keyword.comment.warn": {
+            "color": "#edce94ff"
           },
-          "comment.error": {
-            "color": "#e06c75ff"
+          "property.comment.error": {
+            "color": "#e88e95ff"
           },
-          "comment.user": {
+          "emphasis.comment.user": {
             "color": "#ffffffff"
           },
           "constant": {
@@ -477,19 +477,19 @@
             "color": "#8792a2ff",
             "font_style": "italic"
           },
-          "comment.todo": {
-            "color": "#4078f2ff"
+          "constant.comment.todo": {
+            "color": "#5c8ff8ff"
           },
-          "comment.info": {
-            "color": "#50a14fff"
+          "string.comment.info": {
+            "color": "#6cb56fff"
           },
-          "comment.warn": {
-            "color": "#c18401ff"
+          "keyword.comment.warn": {
+            "color": "#d19b35ff"
           },
-          "comment.error": {
-            "color": "#ca1243ff"
+          "property.comment.error": {
+            "color": "#d94960ff"
           },
-          "comment.user": {
+          "emphasis.comment.user": {
             "color": "#000000dd"
           },
           "constant": {
