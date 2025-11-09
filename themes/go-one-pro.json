@@ -177,16 +177,25 @@
           "constant.comment.todo": {
             "color": "#7dc4ffff"
           },
+          "constant.comment.todo.user": {
+            "color": "#ffffffff"
+          },
           "string.comment.info": {
             "color": "#b0d98cff"
+          },
+          "string.comment.todo.user": {
+            "color": "#ffffffff"
           },
           "keyword.comment.warn": {
             "color": "#edce94ff"
           },
+          "keyword.comment.todo.user": {
+            "color": "#ffffffff"
+          },
           "property.comment.error": {
             "color": "#e88e95ff"
           },
-          "emphasis.comment.user": {
+          "property.comment.todo.user": {
             "color": "#ffffffff"
           },
           "constant": {
@@ -480,16 +489,25 @@
           "constant.comment.todo": {
             "color": "#5c8ff8ff"
           },
+          "constant.comment.error.user": {
+            "color": "#000000dd"
+          },
           "string.comment.info": {
             "color": "#6cb56fff"
+          },
+          "string.comment.error.user": {
+            "color": "#000000dd"
           },
           "keyword.comment.warn": {
             "color": "#d19b35ff"
           },
+          "keyword.comment.error.user": {
+            "color": "#000000dd"
+          },
           "property.comment.error": {
             "color": "#d94960ff"
           },
-          "emphasis.comment.user": {
+          "property.comment.error.user": {
             "color": "#000000dd"
           },
           "constant": {
