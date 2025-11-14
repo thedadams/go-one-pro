@@ -183,19 +183,19 @@
           "string.comment.info": {
             "color": "#b0d98cff"
           },
-          "string.comment.todo.user": {
+          "string.comment.info.user": {
             "color": "#ffffffff"
           },
           "keyword.comment.warn": {
             "color": "#edce94ff"
           },
-          "keyword.comment.todo.user": {
+          "keyword.comment.warn.user": {
             "color": "#ffffffff"
           },
           "property.comment.error": {
             "color": "#e88e95ff"
           },
-          "property.comment.todo.user": {
+          "property.comment.error.user": {
             "color": "#ffffffff"
           },
           "constant": {
@@ -489,19 +489,19 @@
           "constant.comment.todo": {
             "color": "#5c8ff8ff"
           },
-          "constant.comment.error.user": {
+          "constant.comment.todo.user": {
             "color": "#000000dd"
           },
           "string.comment.info": {
             "color": "#6cb56fff"
           },
-          "string.comment.error.user": {
+          "string.comment.info.user": {
             "color": "#000000dd"
           },
           "keyword.comment.warn": {
             "color": "#d19b35ff"
           },
-          "keyword.comment.error.user": {
+          "keyword.comment.warn.user": {
             "color": "#000000dd"
           },
           "property.comment.error": {
